@@ -19,6 +19,7 @@ Contributors of this project are not responsible for what happens next.
 
 * To be completed
 
+--- 添加newifi3分支
 ***
 
 ### 特别说明 ###
